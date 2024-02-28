@@ -57,3 +57,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/dagtekin00/dagtekin00/output/snake.svg" alt="Snake animation" />
+
+###
