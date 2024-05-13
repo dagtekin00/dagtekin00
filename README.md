@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎮 I like to play games<br>👨‍💻 I love to code<br>👌   I like to spend time with my friends<br>⚽ I like to play soccer<br>🚌 I love  traveling</p>
+<p align="left">🎮 I like to play games<br>👨‍💻 I love to code<br>👌   I like to spend time with my friends<br>⚽ I like to play soccer<br>🚌 I love  traveling 📫 How to reach me:tacettin.dagtekin@gmail.com - https://www.linkedin.com/in/tacettin-dagtekin-87472024b/ </p>
 
 ###
 
