@@ -70,6 +70,6 @@ I'm a passionate **Frontend Developer** focused on building high-end, user-centr
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tacettindagtekin&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tacettindagtekin&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
+ <img src="https://github-readme-stats.vercel.app/api?username=dagtekin00&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagtekin00&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
 </p>
